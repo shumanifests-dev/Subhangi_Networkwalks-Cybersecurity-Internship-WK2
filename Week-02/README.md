@@ -1,37 +1,29 @@
 # Week 02 – Penetration Testing Practicals
 
+## Internship Programme
+**Networkwalks Cybersecurity Internship**  
+**Batch:** B084
+
 ## Modules Completed
 
-- **W2-PM1:** Footprinting & Reconnaissance Using Kali Linux
-- **W2-PM5:** Network Scanning Using Zenmap
+| Module | Description |
+|---|---|
+| W2-PM1 | Footprinting & Reconnaissance Using Kali Linux |
+| W2-PM5 | Network Scanning Using Zenmap |
 
-## Practical Overview
+## Practical Report
 
-This directory contains the documentation, methodology, screenshots, and supporting evidence collected during Week 02 of the Networkwalks Cybersecurity Internship Programme.
+📄 [**Week 02 – Penetration Testing Report (PDF)**](Week_02_Penetration_Testing_Report.pdf)
 
-### W2-PM1 – Kali Linux
+## Practical Documentation
 
-Tools covered:
-- WHOIS
-- WhatWeb
-- Nslookup
-- Curl
-- Wafw00f
-- DNSRecon
+- [W2-PM1 – Kali Linux Footprinting](W2-PM1-Kali-Footprinting/README.md)
+- [W2-PM5 – Zenmap Network Scanning](W2-PM5-Zenmap-Scanning/README.md)
 
-### W2-PM5 – Zenmap
+## Evidence
 
-Activities covered:
-- Network configuration identification
-- Ping scanning
-- Live host discovery
-- IP and MAC address documentation
-- Network topology visualization
-
-## Documentation
-
-The practical report and supporting evidence are organized into their respective module directories.
+Supporting screenshots and the network topology export are available inside their respective practical folders.
 
 ## Disclaimer
 
-This repository is maintained for educational and internship documentation purposes. Any public release of assessment materials is subject to authorization from the internship organization and applicable confidentiality requirements.
+This documentation is intended for authorized educational and internship activities. Target-specific findings and network information must not be publicly disclosed without appropriate authorization.
